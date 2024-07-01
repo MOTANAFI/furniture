@@ -41,6 +41,10 @@
   font-family: var(--header-font);
 }
 
+.duka {
+    color: green
+}
+
 img {
   display: flex;
   width: 100%;
